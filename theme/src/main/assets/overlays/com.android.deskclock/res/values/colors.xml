@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Background Colors -->
+    <color name="hour_00">#ff212121</color>
+    <color name="hour_01">#ff212121</color>
+    <color name="hour_02">#ff212121</color>
+    <color name="hour_03">#ff212121</color>
+    <color name="hour_04">#ff212121</color>
+    <color name="hour_05">#ff212121</color>
+    <color name="hour_06">#ff212121</color>
+    <color name="hour_07">#ff212121</color>
+    <color name="hour_08">#ff212121</color>
+    <color name="hour_09">#ff212121</color>
+    <color name="hour_10">#ff212121</color>
+    <color name="hour_11">#ff212121</color>
+    <color name="hour_12">#ff212121</color>
+    <color name="hour_13">#ff212121</color>
+    <color name="hour_14">#ff212121</color>
+    <color name="hour_15">#ff212121</color>
+    <color name="hour_16">#ff212121</color>
+    <color name="hour_17">#ff212121</color>
+    <color name="hour_18">#ff212121</color>
+    <color name="hour_19">#ff212121</color>
+    <color name="hour_20">#ff212121</color>
+    <color name="hour_21">#ff212121</color>
+    <color name="hour_22">#ff212121</color>
+    <color name="hour_23">#ff212121</color>
+	
+    <!-- Statusbar -->
+    <color name="status_bar">#20000000</color>
+
+    <!-- Button, on Switches and Clock selected -->
+    <color name="hot_pink">#ffff6f00</color>
+	
+    <color name="time_picker_gray">#ff212121</color>
+	
+    <color name="default_background">#ff212121</color>
+	
+    <color name="hairline">#70ffffff</color>
+    <color name="line_dark">#ff9e9e9e</color>
+	
+    <color name="red">#fff44336</color>
+	
+    <color name="calendar_selected_date_text">#ffe0e0e0</color>
+	
+</resources>
