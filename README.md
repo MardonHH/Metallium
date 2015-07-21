@@ -3,6 +3,7 @@ Metallium Theme for CM12.1 Themeengine
 
 Screenshots:
 
-![Wallpaper](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/lockscreen.jpg)
+![Lockscreen](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/lockscreen.jpg)
+![Wallpaper](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/wallpaper.jpg)
 ![Clock2](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/clock.jpg)
 ![Clock2](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/clock2.jpg)
