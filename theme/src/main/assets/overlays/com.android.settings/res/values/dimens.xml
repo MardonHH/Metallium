@@ -19,17 +19,8 @@
 <!-- Dashboard category panel elevation -->
     <dimen name="dashboard_category_elevation">4dp</dimen>
 
-<!-- Dashboard category title layout height -->
-    <dimen name="dashboard_category_title_height">48dp</dimen>
-
 <!-- Dashboard category title margin start -->
     <dimen name="dashboard_category_title_margin_start">16dp</dimen>
-
-<!-- Dashboard tile minimum height -->
-    <dimen name="dashboard_tile_minimum_height">72dp</dimen>
-
-<!-- Dashboard image tile size -->
-    <dimen name="dashboard_tile_image_size">56dp</dimen>
 
 <!-- Dashboard tile image margin start / end -->
     <dimen name="dashboard_tile_image_margin_start">8dp</dimen>
