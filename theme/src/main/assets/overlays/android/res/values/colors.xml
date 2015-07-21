@@ -9,4 +9,7 @@
     <color name="switch_thumb_disabled_material_dark">#ff424242</color>
     <color name="switch_thumb_disabled_material_light">#ff424242</color>
 
+    <color name="primary_text_default_material_light">#deff6f00</color>
+    <color name="secondary_text_default_material_light">#8aff6f00</color>
+
 </resources>
