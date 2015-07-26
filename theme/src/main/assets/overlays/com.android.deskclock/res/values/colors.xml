@@ -26,7 +26,10 @@
     <color name="hour_21">#ff212121</color>
     <color name="hour_22">#ff212121</color>
     <color name="hour_23">#ff212121</color>
-	
+    
+    <!--- Color to modify the numpad color in timer -->
+    <color name="numpad_color">#ffa000</color>
+    
     <!-- Statusbar -->
     <color name="status_bar">#20000000</color>
 
