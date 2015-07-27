@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/ic_tab_clock_activated_alpha" android:tint="#ffffa000"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
