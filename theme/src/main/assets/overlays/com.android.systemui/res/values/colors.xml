@@ -17,7 +17,7 @@
     <color name="qs_batterymeter_frame_color">#ff404040</color>
     <color name="system_primary_color">#ff212121</color>
     <color name="system_primary_color_translucent">#90aaaaaa</color>
-    <color name="system_secondary_color">#ff384248</color>
+    <color name="system_secondary_color">#ff424242</color>
     <color name="system_accent_color">#ff80cbc4</color>
     <color name="system_warning_color">#fff4511e</color>
     <color name="qs_text">#ffff6f00</color>
@@ -26,30 +26,62 @@
     <color name="qs_subhead">#99ff6f00</color>
     <color name="qs_detail_empty">#24ff6f00</color>
     <color name="qs_detail_transition">#66ff6f00</color>
-    <color name="qs_detail_progress_track">#99009688</color>
+    <color name="qs_detail_progress_track">#99ff6f00</color>
     <color name="data_usage_secondary">#99ffffff</color>
     <color name="data_usage_graph_track">#33ffffff</color>
     <color name="data_usage_graph_warning">#ffffffff</color>
     <color name="status_bar_clock_color">#ffffffff</color>
     <color name="qs_user_detail_icon_muted">#ffffffff</color>
+
+	<!-- Tint color for the content on the notification overflow card. -->
     <color name="keyguard_overflow_content_color">#ff686868</color>
+
+    <!-- The default recents task bar background color. -->
     <color name="recents_task_bar_default_background_color">#ffe6e6e6</color>
+
+    <!-- The recents task bar light text color to be drawn on top of dark backgrounds. -->
     <color name="recents_task_bar_light_text_color">#ffeeeeee</color>
+
+    <!-- The recents task bar dark text color to be drawn on top of light backgrounds. -->
     <color name="recents_task_bar_dark_text_color">#cc000000</color>
+
+    <!-- The recents task bar light dismiss icon color to be drawn on top of dark backgrounds. -->
     <color name="recents_task_bar_light_dismiss_color">#ffeeeeee</color>
+
+    <!-- The recents task bar light dismiss icon color to be drawn on top of dark backgrounds. -->
     <color name="recents_task_bar_dark_dismiss_color">#99000000</color>
+
+    <!-- The recents task bar highlight color. -->
     <color name="recents_task_bar_highlight_color">#28ffffff</color>
+
+
     <color name="recents_task_view_lock_to_app_button_background_color">#ffe6e6e6</color>
     <color name="recents_task_view_lock_to_app_button_color">#ff666666</color>
     <color name="keyguard_affordance">#ffffffff</color>
+
+    <!-- The color of the legacy notification background -->
     <color name="notification_legacy_background_color">#ff1a1a1a</color>
-    <color name="notification_material_background_color">#fffafafa</color>
-    <color name="notification_material_background_dimmed_color">#d4ffffff</color>
-    <color name="notification_material_background_low_priority_color">#ffe0e0e0</color>
-    <color name="notification_material_background_media_default_color">#ff424242</color>
-    <color name="notification_ripple_untinted_color">#28000000</color>
-    <color name="notification_ripple_color_low_priority">#30000000</color>
-    <color name="notification_ripple_tinted_color">#30ffffff</color>
+
+    <!-- The color of the material notification background -->
+    <color name="notification_material_background_color">#ff424242</color>
+
+    <!-- The color of the material notification background when dimmed -->
+    <color name="notification_material_background_dimmed_color">#d4424242</color>
+
+
+    <color name="notification_material_background_low_priority_color">#ff212121</color>
+    <color name="notification_material_background_media_default_color">#ff212121</color>
+	
+    <!-- The color of the ripples on the untinted notifications -->
+    <color name="notification_ripple_untinted_color">#28ffa000</color>
+
+    
+    <color name="notification_ripple_color_low_priority">#30616161</color>
+
+    <!-- The color of the ripples on the tinted notifications -->
+    <color name="notification_ripple_tinted_color">#30ffa000</color>
+
+
     <color name="notification_guts_title_color">#ffffffff</color>
     <color name="notification_guts_text_color">#b2ffffff</color>
     <color name="notification_guts_btn_color">#ffffffff</color>
