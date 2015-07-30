@@ -1,5 +1,7 @@
 Metallium Theme for CM12.1 Themeengine
 
+Main Colors:
+Material Amber & Gray tones
 
 Screenshots:
 
