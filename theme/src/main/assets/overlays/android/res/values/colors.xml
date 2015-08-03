@@ -12,4 +12,6 @@
     <color name="primary_text_default_material_light">#deff6f00</color>
     <color name="secondary_text_default_material_light">#8aff6f00</color>
 
+    <color name="config_defaultNotificationColor">#ffff6f00</color>
+
 </resources>
