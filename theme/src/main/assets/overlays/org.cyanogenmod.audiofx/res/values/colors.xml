@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background">#ff2e2e2e</color>
+    <color name="audiofx_background_color">#cc191919</color>
+
+    <color name="eq_preset_label_text_color">#ffffa000</color>
+    <color name="reverb_label_text_color">#ffffa000</color>
+
+    <color name="highlight">#cc8f8f8f</color>
+    <color name="lowlight">#ccf4fcff</color>
+
+    <!-- inactive preset color -->
+    <color name="grey">#ffffa000</color>
+
+    <color name="disabled">#80525252</color>
+    <color name="disabled_gallery">#ff888888</color>
+
+    <!-- disabled knob text-color -->
+    <color name="disabled_knob">#80ff6f00</color>
+
+    <color name="primary">#ff424242</color>
+    <color name="primary_dark">#ff212121</color>
+
+    <!-- toggle-switch on state color -->
+    <color name="accent">#ffffa000</color>
+
+    <color name="white">#fffafafa</color>
+    <color name="black">#ff212121</color>
+    <color name="grid_lines">#22ffffff</color>
+    <color name="cb">#88ffffff</color>
+    <color name="freq_hl">#20ffa000</color>
+    <color name="freq_hl2">#40ff6f00</color>
+    <color name="eq_red">#fff44336</color>
+    <color name="eq_green">#ff8bc34a</color>
+    <color name="eq_yellow">#ffff9800</color>
+    <color name="eq_holo_bright">#8000ddff</color>
+    <color name="eq_holo_blue">#8033b5e5</color>
+    <color name="eq_holo_dark">#800099cc</color>
+    <color name="cb_shader">#ffffffff</color>
+    <color name="cb_shader_alpha">#22ffffff</color>
+    <color name="window_background">@color/black</color>
+</resources>
