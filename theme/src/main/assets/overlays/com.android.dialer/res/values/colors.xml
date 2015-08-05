@@ -2,12 +2,12 @@
 <resources>
     <color name="dialer_theme_color">#ff424242</color>
     <color name="dialer_theme_color_dark">#ff393939</color>
-    <color name="background_dialpad">#fffcfcfc</color>
-    <color name="background_dialpad_pressed">#ffececec</color>
+    <color name="background_dialpad">#ff212121</color>
+    <color name="background_dialpad_pressed">#ff424242</color>
     <color name="dialpad_primary_text_color">#ffffa000</color>
-    <color name="dialpad_secondary_text_color">#ff737373</color>
-    <color name="dialpad_digits_text_color">#ff333333</color>
-    <color name="dialpad_separator_line_color">#ffdadada</color>
+    <color name="dialpad_secondary_text_color">#ffff6f00</color>
+    <color name="dialpad_digits_text_color">#ffff6f00</color>
+    <color name="dialpad_separator_line_color">#ff616161</color>
     <color name="dialpad_icon_tint">#ffb3b3b3</color>
     <color name="dialpad_voicemail_tint">#ff919191</color>
     <color name="contact_tile_text_color">#ff202020</color>
