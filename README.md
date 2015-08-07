@@ -6,7 +6,7 @@ Material Amber & Gray tones
 WIP:
 - Dialer
 - Contacts
--Systemsettings (temp stopped)
+- Systemsettings (temp stopped)
 
 Icons:
 
