@@ -3,6 +3,11 @@ Metallium Theme for CM12.1 Themeengine
 Main Colors:
 Material Amber & Gray tones
 
+WIP:
+- Dialer
+- Contacts
+-Systemsettings (temp stopped)
+
 Icons:
 
 ![DeskClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/clock.png)
