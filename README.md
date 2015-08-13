@@ -18,6 +18,7 @@ Icons:
 ![Downloads](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/downloads.png)
 ![Dialer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/phone.png)
 ![Contacts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/contacts.png)
+![Browser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/browser.png)
 
 Screenshots:
 
