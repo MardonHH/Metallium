@@ -20,6 +20,8 @@ Icons:
 ![Contacts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/contacts.png)
 ![Browser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/browser.png)
 ![SMS](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sms.png)
+![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
+![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 
 Screenshots:
 
