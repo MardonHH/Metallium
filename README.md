@@ -12,6 +12,10 @@ Icons:
 
 ![DeskClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/clock.png)
 ![AudioFX](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audiofx.png)
+![Themes](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/themes.png)
+![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
+![Gallery](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gallery.png)
+![Downloads](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/downloads.png)
 
 Screenshots:
 
