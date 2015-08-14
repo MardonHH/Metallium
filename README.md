@@ -31,6 +31,8 @@ Icons:
 ![FM](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/fm.png)
 ![Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/settings.png)
 ![Audials](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audials.png)
+![GMSSettings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsettings.png)
+![Calculator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calculator.png)
 
 Screenshots:
 
