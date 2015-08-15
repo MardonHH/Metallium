@@ -34,6 +34,8 @@ Icons:
 ![GMSSettings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsettings.png)
 ![Calculator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calculator.png)
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
+![Facebook](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook.png)
+![FacebookLite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebooklite.png)
 
 Screenshots:
 
