@@ -40,6 +40,7 @@ Icons:
 ![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 ![PlayStore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playstore.png)
+![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 
 Screenshots:
 
