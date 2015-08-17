@@ -44,6 +44,7 @@ Icons:
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
+![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
 
 
 
