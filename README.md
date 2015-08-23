@@ -48,6 +48,7 @@ Icons:
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 ![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
+![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 
 
 Screenshots:
