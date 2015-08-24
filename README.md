@@ -51,6 +51,7 @@ Icons:
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
+![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
 
 
 Screenshots:
