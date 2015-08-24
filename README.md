@@ -49,6 +49,7 @@ Icons:
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 ![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
+![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 
 
 Screenshots:
