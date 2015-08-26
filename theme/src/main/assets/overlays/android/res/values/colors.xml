@@ -4,14 +4,14 @@
     <color name="battery_saver_mode_color">#fff4511e</color>
 	
     <!-- ToggleSwitches -->
-    <color name="switch_thumb_normal_material_dark">#ffff6f00</color>
-    <color name="switch_thumb_normal_material_light">#ffff6f00</color>
+    <color name="switch_thumb_normal_material_dark">#ffe64a19</color>
+    <color name="switch_thumb_normal_material_light">#ffe64a19</color>
     <color name="switch_thumb_disabled_material_dark">#ff424242</color>
     <color name="switch_thumb_disabled_material_light">#ff424242</color>
 
-    <color name="primary_text_default_material_light">#deff6f00</color>
-    <color name="secondary_text_default_material_light">#8aff6f00</color>
+    <color name="primary_text_default_material_light">#dee64a19</color>
+    <color name="secondary_text_default_material_light">#8ae64a19</color>
 
-    <color name="config_defaultNotificationColor">#ffff6f00</color>
+    <color name="config_defaultNotificationColor">#ffe64a19</color>
 
 </resources>
