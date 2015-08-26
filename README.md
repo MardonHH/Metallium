@@ -1,4 +1,6 @@
 Metallium Theme for CM12.1 Themeengine
+![AppIcon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/ic_launcher.png)
+ic_launcher.png
 
 Main Colors:
 Material Deep Orange & Gray tones
