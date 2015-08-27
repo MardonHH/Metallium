@@ -14,6 +14,9 @@ WIP:
 Icons:
 
 ![DeskClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/clock.png)
+
+Icons (ToDo: change colors to deep orange):
+
 ![AudioFX](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audiofx.png)
 ![Themes](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/themes.png)
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
