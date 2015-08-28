@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bitmap android:src="@drawable/ic_tab_alarm_activated_alpha" android:tint="#ffffa000"
+<bitmap android:src="@drawable/ic_tab_alarm_activated_alpha" android:tint="#ffff5722"
   xmlns:android="http://schemas.android.com/apk/res/android" />
