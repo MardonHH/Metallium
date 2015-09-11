@@ -21,7 +21,7 @@ Icons:
 ![Browser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/browser.png)
 ![SMS](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sms.png)
 
-google_messenger.png
+
 Icons (ToDo: change colors to deep orange):
 
 ![AudioFX](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audiofx.png)
