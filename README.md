@@ -25,6 +25,7 @@ Icons:
 ![AudioFX](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audiofx.png)
 ![Calculator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calculator.png)
 ![Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/settings.png)
+![Calendar](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calendar.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -32,7 +33,6 @@ Icons (ToDo: change colors to deep orange):
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 ![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
-![Calendar](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calendar.png)
 ![G+](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g+.png)
 ![GHome](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_home.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
