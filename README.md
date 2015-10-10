@@ -38,6 +38,7 @@ Icons:
 ![Facebook](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook.png)
 ![FacebookLite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebooklite.png)
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
+![WhatsApp](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/whatsapp.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -60,7 +61,6 @@ Icons (ToDo: change colors to deep orange):
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
 ![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
-![WhatsApp](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/whatsapp.png)
 
 
 Screenshots:
