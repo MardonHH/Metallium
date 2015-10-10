@@ -32,6 +32,7 @@ Icons:
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
 ![PlayStore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playstore.png)
 ![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
+![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -47,7 +48,6 @@ Icons (ToDo: change colors to deep orange):
 ![Facebook](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook.png)
 ![FacebookLite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebooklite.png)
 ![TotalCommander](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander.png)
-![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
