@@ -39,6 +39,7 @@ Icons:
 ![FacebookLite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebooklite.png)
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
 ![WhatsApp](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/whatsapp.png)
+![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -56,7 +57,6 @@ Icons (ToDo: change colors to deep orange):
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
-![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
