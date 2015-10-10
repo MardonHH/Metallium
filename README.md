@@ -31,12 +31,12 @@ Icons:
 ![G+](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g+.png)
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
 ![PlayStore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playstore.png)
+![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 
 
 Icons (ToDo: change colors to deep orange):
 
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
-![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
