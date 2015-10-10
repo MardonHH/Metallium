@@ -34,6 +34,7 @@ Icons:
 ![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 ![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
 ![FM](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/fm.png)
+![Audials](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audials.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -43,7 +44,6 @@ Icons (ToDo: change colors to deep orange):
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
 ![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
-![Audials](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audials.png)
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
 ![Facebook](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook.png)
 ![FacebookLite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebooklite.png)
