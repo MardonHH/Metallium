@@ -40,11 +40,11 @@ Icons:
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
 ![WhatsApp](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/whatsapp.png)
 ![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
+![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 
 
 Icons (ToDo: change colors to deep orange):
 
-![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
