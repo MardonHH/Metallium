@@ -42,6 +42,7 @@ Icons:
 ![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
+![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -51,7 +52,6 @@ Icons (ToDo: change colors to deep orange):
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
 ![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
 ![TotalCommander](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander.png)
-![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
