@@ -43,6 +43,7 @@ Icons:
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
+![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -58,7 +59,6 @@ Icons (ToDo: change colors to deep orange):
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
-![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
 ![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
 
