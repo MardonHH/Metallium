@@ -73,13 +73,13 @@
     <color name="notification_material_background_media_default_color">#ff9e9e9e</color>
 	
     <!-- The color of the ripples on the untinted notifications -->
-    <color name="notification_ripple_untinted_color">#28ffa000</color>
+    <color name="notification_ripple_untinted_color">#28e64a19</color>
 
     
     <color name="notification_ripple_color_low_priority">#30616161</color>
 
     <!-- The color of the ripples on the tinted notifications -->
-    <color name="notification_ripple_tinted_color">#30ffa000</color>
+    <color name="notification_ripple_tinted_color">#30e64a19</color>
 
 
     <color name="notification_guts_title_color">#ffffffff</color>
