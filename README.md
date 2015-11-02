@@ -45,6 +45,7 @@ Icons:
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 ![TotalCommander](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander.png)
+![Slack](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/slack.png)
 
 
 Icons (ToDo: change colors to deep orange):
