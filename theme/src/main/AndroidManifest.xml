@@ -16,9 +16,9 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.your.theme.template">
+    package="org.spikelab.metallium">
 
-    <uses-feature android:required="true" android:name="org.spikelabs.metallium" />
+    <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="22" />
 
