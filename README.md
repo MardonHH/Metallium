@@ -46,14 +46,14 @@ Icons:
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
 ![TotalCommander](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander.png)
 ![Slack](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/slack.png)
+![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
+![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
 
 
 Icons (ToDo: change colors to deep orange):
 
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
-![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
-![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
