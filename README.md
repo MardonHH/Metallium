@@ -48,6 +48,8 @@ Icons:
 ![Slack](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/slack.png)
 ![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
+![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
+![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -60,8 +62,6 @@ Icons (ToDo: change colors to deep orange):
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
-![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
-![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
 
 
 Screenshots:
