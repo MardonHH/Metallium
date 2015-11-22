@@ -6,8 +6,8 @@
     <!-- ToggleSwitches -->
     <color name="switch_thumb_normal_material_dark">#ffe64a19</color>
     <color name="switch_thumb_normal_material_light">#ffe64a19</color>
-    <color name="switch_thumb_disabled_material_dark">#ff424242</color>
-    <color name="switch_thumb_disabled_material_light">#ff424242</color>
+    <color name="switch_thumb_disabled_material_dark">#ffbf360c</color>
+    <color name="switch_thumb_disabled_material_light">#ffbf360c</color>
 
     <color name="primary_text_default_material_light">#dee64a19</color>
     <color name="secondary_text_default_material_light">#8ae64a19</color>
