@@ -7,7 +7,7 @@
     <color name="text_color_darker_gray">#ffaaaaaa</color>
     <color name="dashboard_category_background_color">#fff5f5f5</color>
     <color name="data_usage_stroke_color">#00000000</color>
-    <color name="data_usage_fill_color">#ff009688</color>
+    <color name="data_usage_fill_color">#ffd84315</color>
     <color name="data_usage_secondary_fill_color">#ff80cbc4</color>
     <color name="data_usage_label_color">#ff37474f</color>
     <color name="data_usage_secondary_label_color">#fff4511e</color>
@@ -24,7 +24,7 @@
     <color name="title_color">#ff33b5e5</color>
     <color name="theme_primary">#fff5f5f5</color>
     <color name="theme_primary_dark">#ff11171B</color>
-    <color name="theme_accent">#ff009688</color>
+    <color name="theme_accent">#ffd84315</color>
     <color name="dashboard_background_color">#ffe0e0e0</color>
     <color name="switchbar_background_color">#ffeeeeee</color>
     <color name="switch_accent_color">#ff7fcac3</color>
