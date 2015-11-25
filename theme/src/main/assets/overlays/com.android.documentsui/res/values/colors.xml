@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="drawer_background_color">#ff212121</color>
+    <color name="drawer_background_color">#ffe0e0e0</color>
     <color name="font_color_doc_grid">#ffffa000</color>
-    <color name="material_grey_50">#ff424242</color>
-    <color name="material_grey_300">#ff424242</color>
-    <color name="item_doc_grid_background">#ff424242</color>
+    <color name="material_grey_50">#fff2f2f2</color>
+    <color name="material_grey_300">#fff2f2f2</color>
+    <color name="item_doc_grid_background">#fff2f2f2</color>
     <color name="item_doc_grid_protect_background">#88000000</color>
     <color name="item_doc_grid_overlay_activated">#40e64a19</color>
     <color name="item_doc_grid_overlay_disabled">#88ffffff</color>
