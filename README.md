@@ -50,6 +50,7 @@ Icons:
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
 ![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
+![Streetspotr](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/streetspotr.png)
 
 
 Icons (ToDo: change colors to deep orange):
