@@ -51,6 +51,7 @@ Icons:
 ![MX-Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mxplayer.png)
 ![GMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gmail.png)
 ![Streetspotr](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/streetspotr.png)
+![Tapatalk](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tapatalk.png)
 
 
 Icons (ToDo: change colors to deep orange):
