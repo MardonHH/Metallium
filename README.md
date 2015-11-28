@@ -55,6 +55,7 @@ Icons:
 ![EMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/email.png)
 ![Inbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/inbox.png)
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
+![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -64,7 +65,6 @@ Icons (ToDo: change colors to deep orange):
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
-![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 
 
