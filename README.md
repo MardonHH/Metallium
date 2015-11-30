@@ -56,6 +56,7 @@ Icons:
 ![Inbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/inbox.png)
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
+![LegacyXperiaCenter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/lx.png)
 
 
 Icons (ToDo: change colors to deep orange):
