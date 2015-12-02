@@ -58,6 +58,7 @@ Icons:
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![LegacyXperiaCenter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/lx.png)
 ![OTA-Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ota.png)
+![Google Photos](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gphoto.png)
 
 
 Icons (ToDo: change colors to deep orange):
