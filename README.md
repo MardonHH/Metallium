@@ -60,6 +60,7 @@ Icons:
 ![OTA-Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ota.png)
 ![Google Photos](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gphoto.png)
 ![Eleven](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/eleven.png)
+![Play Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic.png)
 
 
 Icons (ToDo: change colors to deep orange):
