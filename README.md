@@ -62,6 +62,7 @@ Icons:
 ![Eleven](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/eleven.png)
 ![Play Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic.png)
 ![Twitter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/twitter.png)
+![Sony Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sonymusic.png)
 
 
 Icons (ToDo: change colors to deep orange):
