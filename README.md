@@ -61,6 +61,7 @@ Icons:
 ![Google Photos](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gphoto.png)
 ![Eleven](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/eleven.png)
 ![Play Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic.png)
+![Twitter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/twitter.png)
 
 
 Icons (ToDo: change colors to deep orange):
