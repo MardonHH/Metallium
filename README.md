@@ -64,6 +64,7 @@ Icons:
 ![Twitter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/twitter.png)
 ![Sony Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sonymusic.png)
 ![ConnectBot](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/connectbot.png)
+![Spotify](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/spotify.png)
 
 
 Icons (ToDo: change colors to deep orange):
