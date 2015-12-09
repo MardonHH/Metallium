@@ -66,6 +66,7 @@ Icons:
 ![ConnectBot](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/connectbot.png)
 ![Spotify](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/spotify.png)
 ![Xbox One Smartglass](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/xboxonesg.png)
+![FitBit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/fitbit.png)
 
 
 Icons (ToDo: change colors to deep orange):
