@@ -68,6 +68,7 @@ Icons:
 ![Xbox One Smartglass](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/xboxonesg.png)
 ![FitBit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/fitbit.png)
 ![Google Rewards](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/rewards.png)
+![Trello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trello.png)
 
 
 Icons (ToDo: change colors to deep orange):
