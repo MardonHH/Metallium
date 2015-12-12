@@ -72,6 +72,7 @@ Icons:
 ![Here Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/here.png)
 ![ES Explorer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl.png)
 ![ES Explorer PRO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl-pro.png)
+![KDE Connect](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kdeconnect.png)
 
 
 Icons (ToDo: change colors to deep orange):
