@@ -71,6 +71,7 @@ Icons:
 ![Trello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trello.png)
 ![Here Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/here.png)
 ![ES Explorer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl.png)
+![ES Explorer PRO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl-pro.png)
 
 
 Icons (ToDo: change colors to deep orange):
