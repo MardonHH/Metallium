@@ -70,6 +70,7 @@ Icons:
 ![Google Rewards](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/rewards.png)
 ![Trello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trello.png)
 ![Here Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/here.png)
+![ES Explorer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl.png)
 
 
 Icons (ToDo: change colors to deep orange):
