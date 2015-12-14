@@ -73,6 +73,7 @@ Icons:
 ![ES Explorer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl.png)
 ![ES Explorer PRO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl-pro.png)
 ![KDE Connect](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kdeconnect.png)
+![Android weather](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/androidweather.png)
 
 
 Icons (ToDo: change colors to deep orange):
