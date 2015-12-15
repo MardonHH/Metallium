@@ -70,6 +70,7 @@ Icons:
 ![Google Rewards](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/rewards.png)
 ![Trello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trello.png)
 ![Here Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/here.png)
+![Here Maps Home](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/here_home.png)
 ![ES Explorer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl.png)
 ![ES Explorer PRO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/es-expl-pro.png)
 ![KDE Connect](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kdeconnect.png)
