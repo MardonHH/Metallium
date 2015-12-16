@@ -78,6 +78,7 @@ Icons:
 ![Android weather adfree](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/androidweather_adfree.png)
 ![Tunein](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tunein.png)
 ![Skydrive](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ms_skydrive.png)
+![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 
 
 Icons (ToDo: change colors to deep orange):
@@ -85,7 +86,6 @@ Icons (ToDo: change colors to deep orange):
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
-![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 
