@@ -77,6 +77,7 @@ Icons:
 ![Android weather](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/androidweather.png)
 ![Android weather adfree](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/androidweather_adfree.png)
 ![Tunein](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tunein.png)
+![Skydrive](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ms_skydrive.png)
 
 
 Icons (ToDo: change colors to deep orange):
