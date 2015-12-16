@@ -81,13 +81,13 @@ Icons:
 ![GoogleSheets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsheets.png)
 ![GoogleDocs](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gdocs.png)
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
+![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 
 
 Icons (ToDo: change colors to deep orange):
 
 ![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
-![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 
 
 Screenshots:
