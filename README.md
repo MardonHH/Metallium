@@ -2,6 +2,10 @@ Metallium Theme for CM12.1 Themeengine
 
 ![AppIcon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/ic_launcher.png)
 
+<a href="https://play.google.com/store/apps/details?id=org.spikelab.metallium">
+  <img alt="Google Play"
+       src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
 
 Main Colors:
 Material Deep Orange & Gray tones
