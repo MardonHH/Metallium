@@ -88,6 +88,7 @@ Icons:
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 ![GoogleBooks](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books.png)
 ![GoogleMovies](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies.png)
+![FacebookMessenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook_messenger.png)
 
 
 Icons (ToDo: change colors to deep orange):
