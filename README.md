@@ -90,6 +90,8 @@ Icons:
 ![GoogleMovies](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies.png)
 ![FacebookMessenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook_messenger.png)
 ![ChromeCast](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chromecast.png)
+![Dropbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/dropbox.png)
+
 
 Icons (ToDo: change colors to deep orange):
 
