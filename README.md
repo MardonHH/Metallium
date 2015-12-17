@@ -87,6 +87,7 @@ Icons:
 ![GoogleSlides](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gslides.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 ![GoogleBooks](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books.png)
+![GoogleMovies](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies.png)
 
 
 Icons (ToDo: change colors to deep orange):
