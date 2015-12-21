@@ -93,6 +93,7 @@ Icons:
 ![Dropbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/dropbox.png)
 ![Skype](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/skype.png)
 ![Pushbullet](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pushbullet.png)
+![Cardboard Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam.png)
 
 
 Icons (ToDo: change colors to deep orange):
