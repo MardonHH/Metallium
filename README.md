@@ -94,6 +94,7 @@ Icons:
 ![Skype](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/skype.png)
 ![Pushbullet](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pushbullet.png)
 ![Cardboard Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam.png)
+![TrackID](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trackid.png)
 
 
 Icons (ToDo: change colors to deep orange):
