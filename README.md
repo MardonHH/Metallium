@@ -95,6 +95,7 @@ Icons:
 ![Pushbullet](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pushbullet.png)
 ![Cardboard Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam.png)
 ![TrackID](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trackid.png)
+![Kore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kore_remote.png)
 
 
 Icons (ToDo: change colors to deep orange):
