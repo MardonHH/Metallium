@@ -8,8 +8,8 @@ android {
         applicationId "org.spikelab.metallium"
         minSdkVersion 21
         targetSdkVersion 22
-        versionCode 22
-        versionName "0.4.8"
+        versionCode 23
+        versionName "0.4.9"
     }
     buildTypes {
         release {
