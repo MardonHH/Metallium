@@ -97,6 +97,7 @@ Icons:
 ![TrackID](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trackid.png)
 ![Kore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kore_remote.png)
 ![Nova Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_settings.png)
+![Nova Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher.png)
 
 
 Icons (ToDo: change colors to deep orange):
