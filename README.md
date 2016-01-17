@@ -99,6 +99,7 @@ Icons:
 ![Nova Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_settings.png)
 ![Nova Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher.png)
 ![aosp messenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_messenger.png)
+![Snapchat](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/snapchat.png)
 
 Icons (ToDo: change colors to deep orange):
 
