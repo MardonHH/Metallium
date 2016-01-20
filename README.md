@@ -101,6 +101,7 @@ Icons:
 ![aosp messenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_messenger.png)
 ![Snapchat](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/snapchat.png)
 ![CM SnapCamera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_snapcamera.png)
+![Localcast](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/localcast.png)
 
 Icons (ToDo: change colors to deep orange):
 
