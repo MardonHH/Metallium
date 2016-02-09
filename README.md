@@ -104,6 +104,7 @@ Icons:
 ![CM SnapCamera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_snapcamera.png)
 ![Localcast](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/localcast.png)
 ![PlayGames](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/play_games.png)
+![Bluetooth](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bt.png)
 
 Icons (ToDo: change colors to deep orange):
 
