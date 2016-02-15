@@ -105,6 +105,7 @@ Icons:
 ![Localcast](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/localcast.png)
 ![PlayGames](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/play_games.png)
 ![Bluetooth](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bt.png)
+![Plex](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/plex.png)
 
 Icons (ToDo: change colors to deep orange):
 
