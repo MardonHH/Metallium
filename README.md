@@ -108,6 +108,7 @@ Icons:
 ![Plex](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/plex.png)
 ![GoogleFit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_fit.png)
 ![Bubble UPnP](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bubbleupnp.png)
+![Chronus](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chronus.png)
 
 Icons (ToDo: change colors to deep orange):
 
