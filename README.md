@@ -31,6 +31,7 @@ Icons:
 ![Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/settings.png)
 ![Calendar](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calendar.png)
 ![GMSSettings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsettings.png)
+![PlayServices](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playservices.png)
 ![GHome](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_home.png)
 ![G+](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g+.png)
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
