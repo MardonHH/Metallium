@@ -110,6 +110,7 @@ Icons:
 ![GoogleFit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_fit.png)
 ![Bubble UPnP](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bubbleupnp.png)
 ![Chronus](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chronus.png)
+![App Icon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/app_icon.png)
 
 Icons (ToDo: change colors to deep orange):
 
