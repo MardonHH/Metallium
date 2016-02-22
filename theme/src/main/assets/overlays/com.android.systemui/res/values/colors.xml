@@ -88,4 +88,10 @@
     <color name="doze_small_icon_background_color">#ff434343</color>
     <color name="volume_panel_divider">#1fffffff</color>
     <color name="equalizer_fill_color">#92ffffff</color>
+	
+	<color name="volume_icon_color">#ffe64a19</color>
+    <color name="volume_settings_icon_color">#7fe64a19</color>
+    <color name="volume_slider_inactive">#ffbf360c</color>
+	<color name="volume_slider_active">#fff4511e</color>
+
 </resources>
