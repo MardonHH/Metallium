@@ -111,6 +111,7 @@ Icons:
 ![Bubble UPnP](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bubbleupnp.png)
 ![Chronus](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chronus.png)
 ![App Icon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/app_icon.png)
+![Cloudprint](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cloudprint.png)
 
 Icons (ToDo: change colors to deep orange):
 
