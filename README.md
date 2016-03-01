@@ -112,6 +112,7 @@ Icons:
 ![Chronus](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chronus.png)
 ![App Icon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/app_icon.png)
 ![Cloudprint](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cloudprint.png)
+![Google TV Remote](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_tvremote.png)
 
 Icons (ToDo: change colors to deep orange):
 
