@@ -114,6 +114,7 @@ Icons:
 ![Cloudprint](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cloudprint.png)
 ![Google TV Remote](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_tvremote.png)
 ![Shazam Encore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/shazam_encore.png)
+![Google Hands Free](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_hands_free.png)
 
 Icons (ToDo: change colors to deep orange):
 
