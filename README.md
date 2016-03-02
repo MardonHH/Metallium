@@ -113,6 +113,7 @@ Icons:
 ![App Icon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/app_icon.png)
 ![Cloudprint](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cloudprint.png)
 ![Google TV Remote](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_tvremote.png)
+![Shazam Encore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/shazam_encore.png)
 
 Icons (ToDo: change colors to deep orange):
 
