@@ -115,10 +115,11 @@ Icons:
 ![Google TV Remote](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_tvremote.png)
 ![Shazam Encore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/shazam_encore.png)
 ![Google Hands Free](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_hands_free.png)
+![Signal Messager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr.png)
+
 
 Icons (ToDo: change colors to deep orange):
 
-![Drawer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/drawer.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 
 
