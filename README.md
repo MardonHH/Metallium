@@ -116,7 +116,7 @@ Icons:
 ![Shazam Encore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/shazam_encore.png)
 ![Google Hands Free](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_hands_free.png)
 ![Signal Messager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr.png)
-
+![SMSSecure](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/smssecure.png)
 
 Icons (ToDo: change colors to deep orange):
 
