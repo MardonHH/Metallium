@@ -118,6 +118,8 @@ Icons:
 ![Google Hands Free](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_hands_free.png)
 ![Signal Messager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr.png)
 ![SMSSecure](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/smssecure.png)
+![Google Keep](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keep.png)
+
 
 Icons (ToDo: change colors to deep orange):
 
