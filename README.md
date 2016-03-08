@@ -99,6 +99,7 @@ Icons:
 ![Kore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kore_remote.png)
 ![Nova Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_settings.png)
 ![Nova Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher.png)
+![Nova Launcher Prime](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher_prime.png)
 ![Nova Puzzle](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_puzzle.png)
 ![aosp messenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_messenger.png)
 ![Snapchat](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/snapchat.png)
