@@ -101,6 +101,7 @@ Icons:
 ![Nova Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher.png)
 ![Nova Launcher Prime](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_launcher_prime.png)
 ![Nova Puzzle](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_puzzle.png)
+![Tesla Unread](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tesla_unread.png)
 ![aosp messenger](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_messenger.png)
 ![Snapchat](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/snapchat.png)
 ![CM SnapCamera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_snapcamera.png)
