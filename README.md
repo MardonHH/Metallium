@@ -120,6 +120,7 @@ Icons:
 ![Signal Messager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr.png)
 ![SMSSecure](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/smssecure.png)
 ![Google Keep](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keep.png)
+![CyanogenMod Settings Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_settings.png)
 
 
 Icons (ToDo: change colors to deep orange):
