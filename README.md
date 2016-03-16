@@ -121,6 +121,7 @@ Icons:
 ![SMSSecure](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/smssecure.png)
 ![Google Keep](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keep.png)
 ![CyanogenMod Settings Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_settings.png)
+![CyanogenMod Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_launcher.png)
 
 
 Icons (ToDo: change colors to deep orange):
