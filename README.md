@@ -122,6 +122,7 @@ Icons:
 ![Google Keep](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keep.png)
 ![CyanogenMod Settings Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_settings.png)
 ![CyanogenMod Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_launcher.png)
+![CyanogenMod LockClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_lockclock.png)
 
 
 Icons (ToDo: change colors to deep orange):
