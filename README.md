@@ -49,6 +49,7 @@ Icons:
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
 ![Threema](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema.png)
+![Threema_Voicemessageplugin](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/threema_voice.png)
 ![TotalCommander](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander.png)
 ![Slack](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/slack.png)
 ![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
