@@ -126,6 +126,8 @@ Icons:
 ![CyanogenMod Settings Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_settings.png)
 ![CyanogenMod Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_launcher.png)
 ![CyanogenMod LockClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_lockclock.png)
+![CyanogenMod SetupWizard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_setupwizard.png)
+
 
 
 Icons (ToDo: change colors to deep orange):
