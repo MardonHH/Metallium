@@ -30,6 +30,7 @@ Icons:
 ![Calculator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calculator.png)
 ![Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/settings.png)
 ![Calendar](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/calendar.png)
+![Google Calendar-Sync](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_calendar-sync.png)
 ![GMSSettings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gsettings.png)
 ![PlayServices](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playservices.png)
 ![GHome](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_home.png)
