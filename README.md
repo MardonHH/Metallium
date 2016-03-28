@@ -128,6 +128,7 @@ Icons:
 ![CyanogenMod LockClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_lockclock.png)
 ![CyanogenMod SetupWizard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_setupwizard.png)
 ![AOSP Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_keyboard.png)
+![Google Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keyboard.png)
 
 
 Icons (ToDo: change colors to deep orange):
