@@ -129,6 +129,8 @@ Icons:
 ![CyanogenMod SetupWizard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_setupwizard.png)
 ![AOSP Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_keyboard.png)
 ![Google Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keyboard.png)
+![Google Handwriting](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_handwriting.png)
+
 
 
 Icons (ToDo: change colors to deep orange):
