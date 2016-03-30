@@ -127,6 +127,7 @@ Icons:
 ![CyanogenMod Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_launcher.png)
 ![CyanogenMod LockClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_lockclock.png)
 ![CyanogenMod SetupWizard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_setupwizard.png)
+![CyanogenMod Wallpapers](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_wallpapers.png)
 ![AOSP Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_keyboard.png)
 ![Google Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keyboard.png)
 ![Google Handwriting](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_handwriting.png)
