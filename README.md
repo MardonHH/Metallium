@@ -19,6 +19,7 @@ Icons:
 
 ![DeskClock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/clock.png)
 ![Themes](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/themes.png)
+![Themes Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/themes_provider.png)
 ![Dialer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/phone.png)
 ![Contacts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/contacts.png)
 ![Google Contacts-Sync](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_contacts-sync.png)
