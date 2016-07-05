@@ -4,4 +4,5 @@
     <color name="open_folder_item_text_color">#ffe64a19</color>
     <color name="pressed_state_color">#ffe64a19</color>
     <color name="desktop_tip_title_text_color">#ffe64a19</color>
+	<color name="home_badge_text_color">#ffe64a19</color>
 </resources>
