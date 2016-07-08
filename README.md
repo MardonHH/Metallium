@@ -64,6 +64,7 @@ Icons:
 ![EMail](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/email.png)
 ![Inbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/inbox.png)
 ![SD-Maid](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaid.png)
+![SD-Maid Pro](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sdmaidpro.png)
 ![Google Maps](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/maps.png)
 ![LegacyXperiaCenter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/lx.png)
 ![OTA-Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ota.png)
