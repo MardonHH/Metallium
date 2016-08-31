@@ -134,6 +134,7 @@ Icons:
 ![Google Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keyboard.png)
 ![Google Handwriting](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_handwriting.png)
 ![CyanogenMod Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_updater.png)
+![Google Duo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_duo.png)
 
 
 Icons (ToDo: change colors to deep orange):
