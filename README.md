@@ -136,6 +136,8 @@ Icons:
 ![CyanogenMod Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_updater.png)
 ![Google Duo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_duo.png)
 ![Open Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/open_camera.png)
+![SIM Toolkit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sim_toolkit.png)
+
 
 
 Icons (ToDo: change colors to deep orange):
