@@ -139,6 +139,7 @@ Icons:
 ![SIM Toolkit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sim_toolkit.png)
 ![Tinder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tinder.png)
 ![ROMEO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/romeo.png)
+![Google Translate](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_translate.png)
 
 
 
