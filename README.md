@@ -137,6 +137,8 @@ Icons:
 ![Google Duo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_duo.png)
 ![Open Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/open_camera.png)
 ![SIM Toolkit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/sim_toolkit.png)
+![Tinder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tinder.png)
+![ROMEO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/romeo.png)
 
 
 
