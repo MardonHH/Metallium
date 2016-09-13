@@ -151,6 +151,7 @@ Icons (ToDo: change colors to deep orange):
 Screenshots:
 
 ![Lockscreen](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/lockscreen.jpg)
+![Nexus Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/nexuslauncher.jpg)
 ![Wallpaper](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/wallpaper.jpg)
 ![Clock](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/clock.jpg)
 ![Clock2](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/clock2.jpg)
