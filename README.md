@@ -140,12 +140,13 @@ Icons:
 ![Tinder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/tinder.png)
 ![ROMEO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/romeo.png)
 ![Google Translate](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_translate.png)
+![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 
 
 
 Icons (ToDo: change colors to deep orange):
 
-![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
+
 
 
 Screenshots:
