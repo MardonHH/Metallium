@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dots_red">#ffe64a19</color>
+    <color name="dots_blue">#ffff5722</color>
+    <color name="dots_yellow">#ffff8a65</color>
+    <color name="dots_green">#ffbf360c</color>
+</resources>
