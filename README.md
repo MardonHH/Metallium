@@ -143,6 +143,7 @@ Icons:
 ![Google Translate](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_translate.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![Google Allo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_allo.png)
+![Google In App Search](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_in_apps.png)
 
 
 
