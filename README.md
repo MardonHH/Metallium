@@ -142,6 +142,7 @@ Icons:
 ![ROMEO](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/romeo.png)
 ![Google Translate](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_translate.png)
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
+![Google Allo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_allo.png)
 
 
 
