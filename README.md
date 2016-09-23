@@ -144,6 +144,7 @@ Icons:
 ![GSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_search.png)
 ![Google Allo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_allo.png)
 ![Google In App Search](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_in_apps.png)
+![Google News and Weather](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g_news_weather.png)
 
 
 
