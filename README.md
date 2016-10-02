@@ -59,6 +59,7 @@ Icons:
 ![TotalCommander Google Drive plugin](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander_gdrive-plugin.png)
 ![TotalCommander FTP plugin](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander_ftp-plugin.png)
 ![TotalCommander SFTP plugin](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander_sftp-plugin.png)
+![TotalCommander webdav plugin](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/totalcommander_webdav-plugin.png)
 ![Slack](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/slack.png)
 ![Soundrecorder](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/soundrec.png)
 ![GVSearch](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_voicesearch.png)
