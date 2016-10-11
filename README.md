@@ -156,6 +156,8 @@ Icons:
 ![Google News and Weather](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g_news_weather.png)
 ![Mort Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mortplayer.png)
 ![Mort Player Widgets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mortplayer_widgets.png)
+![Google Wallpaper Chooser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_wallpapers.png)
+
 
 
 
