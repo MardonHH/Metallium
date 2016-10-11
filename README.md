@@ -159,6 +159,7 @@ Icons:
 ![Google Wallpaper Chooser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_wallpapers.png)
 ![Pixel Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pixel_launcher.png)
 ![Google Authenticator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_authenticator.png)
+![Google Analytics](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_analytics.png)
 
 
 
