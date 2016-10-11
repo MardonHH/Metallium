@@ -157,11 +157,11 @@ Icons:
 ![Mort Player](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mortplayer.png)
 ![Mort Player Widgets](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/mortplayer_widgets.png)
 ![Google Wallpaper Chooser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_wallpapers.png)
+![Pixel Launcher](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pixel_launcher.png)
 
 
 
-
-Icons (ToDo: change colors to deep orange):
+Icons (ToDo):
 
 
 
