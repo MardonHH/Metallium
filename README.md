@@ -79,6 +79,7 @@ Icons:
 ![PlayStore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playstore.png)
 ![PlayStore round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playstore_round.png)
 ![Play Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic.png)
+![Play Music round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic_round.png)
 ![GoogleMovies](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies.png)
 ![PlayGames](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/play_games.png)
 ![GoogleBooks](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books.png)
