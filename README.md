@@ -81,6 +81,7 @@ Icons:
 ![Play Music](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic.png)
 ![Play Music round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/playmusic_round.png)
 ![GoogleMovies](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies.png)
+![GoogleMovies round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies_round.png)
 ![PlayGames](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/play_games.png)
 ![GoogleBooks](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
