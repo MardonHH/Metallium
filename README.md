@@ -84,6 +84,7 @@ Icons:
 ![GoogleMovies round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_movies_round.png)
 ![PlayGames](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/play_games.png)
 ![GoogleBooks](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books.png)
+![GoogleBooks round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_books_round.png)
 ![GoogleNewsstand](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_newsstand.png)
 ![Google Play Developer Console](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_play_devconsole.png)
 ![Twitter](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/twitter.png)
