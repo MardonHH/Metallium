@@ -20,5 +20,7 @@
     <string name="theme_name">Metallium</string>
     <string name="theme_author">Mardon</string>
     <string name="theme_email">markusmenzel@gmail.com</string>
+	<string name="ThemeName">Metallium</string>
+    <string name="ThemeAuthor">Mardon</string>
 
 </resources>
