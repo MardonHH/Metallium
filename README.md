@@ -167,7 +167,7 @@ Icons:
 ![Google Authenticator](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_authenticator.png)
 ![Google Analytics](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_analytics.png)
 ![Adaway](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/adaway.png)
-
+![BlackPlayer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/blackplayer.png)
 
 
 Icons (ToDo):
