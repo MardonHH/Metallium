@@ -168,6 +168,7 @@ Icons:
 ![Google Analytics](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_analytics.png)
 ![Adaway](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/adaway.png)
 ![BlackPlayer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/blackplayer.png)
+![Gello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_gello.png)
 
 
 Icons (ToDo):
