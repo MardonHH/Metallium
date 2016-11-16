@@ -169,6 +169,7 @@ Icons:
 ![Adaway](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/adaway.png)
 ![BlackPlayer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/blackplayer.png)
 ![Gello](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_gello.png)
+![Ampere](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ampere.png)
 
 
 Icons (ToDo):
