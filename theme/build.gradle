@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
 
     defaultConfig {
         applicationId "org.spikelab.metallium"
         minSdkVersion 21
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 49
         versionName "0.7.5"
     }
@@ -16,21 +16,26 @@ android {
         def TRUE = "true"
         def FALSE = "false"
         def ANTI_PIRACY = "ENABLE_ANTI_PIRACY"
+		def SUBSTRATE_MODULE = "SUBSTRATE_MODULE"
 
         debug {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE)
+			buildConfigField(BOOLEAN, SUBSTRATE_MODULE, FALSE) // CHANGE FALSE TO TRUE TO ENABLE
         }
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             buildConfigField(BOOLEAN, ANTI_PIRACY, TRUE)
+			buildConfigField(BOOLEAN, SUBSTRATE_MODULE, FALSE) // CHANGE FALSE TO TRUE TO ENABLE
         }
     }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar']),
-	'com.github.javiersantos:PiracyChecker:0.0.2'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.github.javiersantos:PiracyChecker:0.0.2'
+    compile project (':substrate')
 }
