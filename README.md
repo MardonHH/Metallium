@@ -130,6 +130,7 @@ Icons:
 ![Bluetooth](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bluetooth.png)
 ![Plex](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/plex.png)
 ![GoogleFit](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_fit.png)
+![GoogleFit-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_fit_round.png)
 ![Bubble UPnP](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bubbleupnp.png)
 ![Chronus](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/chronus.png)
 ![App Icon](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/app_icon.png)
