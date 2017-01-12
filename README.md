@@ -149,6 +149,7 @@ Icons:
 ![AOSP Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/aosp_keyboard.png)
 ![Google Keyboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keyboard.png)
 ![GBoard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gboard.png)
+![GBoard-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/gboard_round.png)
 ![Google Handwriting](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_handwriting.png)
 ![CyanogenMod Updater](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_updater.png)
 ![Google Duo](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_duo.png)
