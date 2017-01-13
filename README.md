@@ -49,7 +49,7 @@ Icons:
 ![Telegram](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/telegram.png)
 ![WhatsApp](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/whatsapp.png)
 ![VK](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk.png)
-![VK-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk_roundps.png)
+![VK-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/vk_round.png)
 ![Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cam.png)
 ![KernelAdiutor](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kerneladiutor.png)
 ![CM-Filemanager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cmfilemanager.png)
