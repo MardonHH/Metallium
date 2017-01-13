@@ -38,6 +38,7 @@ Icons:
 ![GHome](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_home.png)
 ![G+](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/g+.png)
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
+![Hangouts-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts_round.png)
 ![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 ![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
 ![YouTube-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube_round.png)
