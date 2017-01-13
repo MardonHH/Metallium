@@ -40,6 +40,7 @@ Icons:
 ![Hangouts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/hangouts.png)
 ![Terminal](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/terminal.png)
 ![YouTube](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube.png)
+![YouTube-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/youtube_round.png)
 ![FM](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/fm.png)
 ![Audials](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/audials.png)
 ![Facebook](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/facebook.png)
