@@ -22,6 +22,7 @@ Icons:
 ![Themes Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/themes_provider.png)
 ![Dialer](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/phone.png)
 ![Contacts](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/contacts.png)
+![Contacts-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/contacts_round.png)
 ![Google Contacts-Sync](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_contacts-sync.png)
 ![Downloads](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/downloads.png)
 ![Browser](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/browser.png)
