@@ -121,6 +121,7 @@ Icons:
 ![Skype](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/skype.png)
 ![Pushbullet](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pushbullet.png)
 ![Cardboard Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam.png)
+![Cardboard Camera-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam_round.png)
 ![TrackID](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trackid.png)
 ![Kore](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/kore_remote.png)
 ![Nova Settings](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/nova_settings.png)
