@@ -120,6 +120,7 @@ Icons:
 ![Dropbox](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/dropbox.png)
 ![Skype](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/skype.png)
 ![Pushbullet](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/pushbullet.png)
+![Cardboard](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard.png)
 ![Cardboard Camera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam.png)
 ![Cardboard Camera-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cardboard_cam_round.png)
 ![TrackID](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/trackid.png)
