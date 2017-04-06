@@ -148,6 +148,7 @@ Icons:
 ![Shazam Lite](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/shazam_lite.png)
 ![Google Hands Free](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_hands_free.png)
 ![Signal Messager](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr.png)
+![Signal Messager Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/signal_msgr_rnd.png)
 ![SMSSecure](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/smssecure.png)
 ![Google Keep](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/google_keep.png)
 ![CyanogenMod Settings Provider](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_settings.png)
