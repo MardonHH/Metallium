@@ -134,6 +134,7 @@ Icons:
 ![Snapchat](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/snapchat.png)
 ![CM SnapCamera](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/cm_snapcamera.png)
 ![Localcast](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/localcast.png)
+![Localcast-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/localcast_round.png)
 ![Bluetooth](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bt.png)
 ![Bluetooth](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/bluetooth.png)
 ![Plex](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/plex.png)
