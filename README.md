@@ -186,6 +186,7 @@ Icons:
 ![Ampere-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/ampere_round.png)
 ![Substratum](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/substratum.png)
 ![Substratum-Round](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/substratum_round.png)
+![Lineage Jelly](https://raw.githubusercontent.com/MardonHH/Metallium/master/preview/icons/jelly.png)
 
 
 Icons (ToDo):
